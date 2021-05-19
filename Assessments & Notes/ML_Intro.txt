@@ -1,0 +1,11 @@
+1.What is Machine Learning?
+2. What is the difference between traditional programming & Maching Learning?
+3. Give 2 application of Machine Learning algorithm.
+4. Explain any real life scenario where Machine Learning algorithm is used.
+5. How python is very useful and supportive language for machine learning.
+6. Think of some more scenario where ML is useful.
+7. Find out some other example where ML can be used.
+8. Start writing your own notes & prepare question sets.
+
+
+
