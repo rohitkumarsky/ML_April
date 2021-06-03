@@ -1,2 +1,6 @@
 ED Analysis
 https://medium.com/code-heroku/introduction-to-exploratory-data-analysis-eda-c0257f888676
+
+Gradient Descent
+https://arshren.medium.com/gradient-descent-5a13f385d403
+
