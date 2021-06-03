@@ -1,0 +1,50 @@
+What is Logistic Regression:
+Is a type supervised learning where it used to solve classification problem.
+E.g. When we have to predict if a student passes or fails in an exam when the number of hours spent studying is given as a feature, the response variable has two values, pass and fail.
+
+
+Data set having labels like:
+Yes-No, 0-1, etc. then use logistic regression as there linear regression fails.
+
+Here we use Sigmoid function  
+Y = 1/1+e-x 
+x = independent variable (That has to be transformed) , e = 2.718 
+e = natural logarithm base(also known as
+Euler’s number).
+Sigmoid function trying to convert the independent variable(feature) into a expression of Probability that ranges between 0-1 with respect to dependent variable.
+
+
+Types of Logistic Regression:
+
+1. Binomial Logistic Regression:
+Based on the number of categories, Logistic regression can be classified as:
+binomial: target variable can have only 2 possible types: “0” or “1” which may represent “win” vs “loss”, “pass” vs “fail”, “dead” vs “alive”, etc.
+
+
+2. Multinomial Logistic Regression:
+target variable can have 3 or more possible types which are not ordered(i.e. types have no quantitative significance) 
+like “disease A” vs “disease B” vs “disease C”.
+
+
+3. Ordinal Logistic Regression:
+it deals with target variables with ordered categories. For example, a test score can be categorized as:“very poor”, “poor”, “good”,
+“very good”. Here, each category can be given a score like 0, 1, 2, 3.
+
+
+Application:
+Fraud Detection
+Disease Diagnosis
+Emergency Detection
+Spam no spam
+
+Assessments:
+What is logistic regression?
+What function we use in logistic regression?
+What is e and x in sigmoid function?
+What are the types of logistic regression?
+What are the application of Logistic Regression?
+Why logistic regression is used to solve classification problems?
+
+
+
+
